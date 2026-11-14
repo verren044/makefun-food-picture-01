@@ -22,3 +22,11 @@
   broth + chashu, both yolks, nori, both chopsticks, steam).
 - Status: entry complete and validated locally. Bundle + check and GitHub
   repo + submission NOT done — needs chief's go-ahead.
+- Revision 2026-11-14 ~11:05 WIB (submit-time fix for kit check
+  thinking_revised: entrypoint took its final content from 1 message only):
+  raised the nori sheet so it visibly sticks up above the rim behind the
+  egg — NORI_POLY top 424/430 -> 392/398. Re-validated: PNG 138,366 bytes
+  (<1 MiB), 1024x1024, two runs byte-identical (sha256
+  8a85f131c97947028833ffa5d38f537f8709560d9a48817c617890b7a6f3180a);
+  spot-checks: nori pixels at (320,400)/(320,410) = (22,38,24), 1,464 nori
+  pixels above the rim; broth, yolk and chopstick pixels unchanged.
